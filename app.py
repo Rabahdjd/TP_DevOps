@@ -33,3 +33,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def debug_log():
+    print('[DEBUG] Message verbeux de test')
+
