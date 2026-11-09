@@ -1,9 +1,4 @@
-"""
-Module de calculs et statistiques - Developpe par le collegue
-"""
-
 def calculer_moyenne(notes):
-    """Calcule la moyenne d'une liste de notes."""
     if not notes:
         return 0.0
     return sum(notes) / len(notes)

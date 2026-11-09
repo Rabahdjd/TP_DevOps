@@ -2,7 +2,7 @@
 
 **Module** : DevOps  
 **Établissement** : Université Abderrahmane Mira – Béjaïa  
-**Étudiant** : Rabah DJEDDI  
+**Étudiant** : Rabah DJOUED  
 **Dépôt GitHub** : https://github.com/Rabahdjd/TP_DevOps  
 
 ---

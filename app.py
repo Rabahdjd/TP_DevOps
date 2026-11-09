@@ -1,15 +1,9 @@
-"""
-Application de gestion des etudiants et modules
-Module DevOps - TP 1
-"""
-
 def afficher_accueil():
     print("========================================")
     print("   Application de Gestion TP DevOps     ")
     print("========================================")
 
 def authentifier(username, password):
-    """Fonctionnalite d'authentification utilisateur."""
     users = {"admin": "secret123", "rabah": "devops2026"}
     return users.get(username) == password
 
